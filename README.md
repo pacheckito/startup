@@ -1,5 +1,6 @@
-# Project Name
+# ClipFusion 
 
+## Installation
 To run this project, pull from the repository by running: 
 ```
 git clone https://github.com/pacheckito/startup
